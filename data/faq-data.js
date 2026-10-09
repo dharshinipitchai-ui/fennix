@@ -1,0 +1,110 @@
+window.FENNIX_FAQ = [
+ {
+  "id": "aadhaar-address",
+  "keywords": [
+   "aadhaar",
+   "aadhar",
+   "address",
+   "ஆதார்",
+   "முகவரி",
+   "आधार",
+   "पता"
+  ],
+  "title": {
+   "en": "Update address in Aadhaar",
+   "ta": "ஆதார் முகவரி மாற்றம்",
+   "hi": "आधार में पता बदलें"
+  },
+  "a": {
+   "en": "Go to myaadhaar.uidai.gov.in, log in with your Aadhaar number and OTP, choose Update Address, upload a supporting document and submit. You can also visit an Aadhaar centre.",
+   "ta": "myaadhaar.uidai.gov.in தளத்தில் ஆதார் எண் மற்றும் OTP மூலம் உள்நுழையவும். முகவரி புதுப்பிப்பைத் தேர்ந்தெடுத்து, ஆதாரச் சான்றை பதிவேற்றி சமர்ப்பிக்கவும். ஆதார் மையத்திலும் செய்யலாம்.",
+   "hi": "myaadhaar.uidai.gov.in पर आधार नंबर और OTP से लॉगिन करें, पता अपडेट चुनें, प्रमाण दस्तावेज़ अपलोड करें और जमा करें। आप आधार केंद्र भी जा सकते हैं।"
+  }
+ },
+ {
+  "id": "ration-card",
+  "keywords": [
+   "ration",
+   "family card",
+   "tnpds",
+   "ரேஷன்",
+   "குடும்ப அட்டை",
+   "राशन"
+  ],
+  "title": {
+   "en": "Apply for a ration card",
+   "ta": "ரேஷன் அட்டைக்கு விண்ணப்பம்",
+   "hi": "राशन कार्ड के लिए आवेदन"
+  },
+  "a": {
+   "en": "Apply at tnpds.gov.in under New Family Card, or at your Taluk supply office. Keep address proof, identity proof and family details ready.",
+   "ta": "tnpds.gov.in இல் புதிய குடும்ப அட்டை பிரிவில் அல்லது வட்ட வழங்கல் அலுவலகத்தில் விண்ணப்பிக்கவும். முகவரி, அடையாளச் சான்று, குடும்ப விவரங்களை தயாராக வைத்திருங்கள்.",
+   "hi": "tnpds.gov.in पर नया परिवार कार्ड में या तालुक आपूर्ति कार्यालय में आवेदन करें। पता प्रमाण, पहचान प्रमाण और परिवार का विवरण साथ रखें।"
+  }
+ },
+ {
+  "id": "birth-certificate",
+  "keywords": [
+   "birth",
+   "certificate",
+   "பிறப்பு",
+   "சான்றிதழ்",
+   "जन्म",
+   "प्रमाणपत्र"
+  ],
+  "title": {
+   "en": "Get a birth certificate",
+   "ta": "பிறப்புச் சான்றிதழ்",
+   "hi": "जन्म प्रमाणपत्र"
+  },
+  "a": {
+   "en": "Register the birth with your local body (panchayat, municipality or corporation) within 21 days. The hospital gives a birth report to help. Later registration needs extra steps.",
+   "ta": "பிறந்த 21 நாட்களுக்குள் உள்ளாட்சி அலுவலகத்தில் (பஞ்சாயத்து, நகராட்சி, மாநகராட்சி) பதிவு செய்யவும். மருத்துவமனை பிறப்பு அறிக்கை வழங்கும். தாமதமாக பதிவு செய்தால் கூடுதல் நடைமுறைகள் உண்டு.",
+   "hi": "जन्म के 21 दिनों के भीतर स्थानीय निकाय (पंचायत, नगरपालिका या निगम) में पंजीकरण कराएं। अस्पताल जन्म रिपोर्ट देता है। देर से पंजीकरण में अतिरिक्त प्रक्रिया लगती है।"
+  }
+ },
+ {
+  "id": "voter-id",
+  "keywords": [
+   "voter",
+   "election",
+   "form 6",
+   "வாக்காளர்",
+   "வாக்கு",
+   "मतदाता",
+   "वोटर"
+  ],
+  "title": {
+   "en": "Apply for a voter ID",
+   "ta": "வாக்காளர் அடையாள அட்டை",
+   "hi": "वोटर आईडी के लिए आवेदन"
+  },
+  "a": {
+   "en": "Fill Form 6 on voters.eci.gov.in or in the Voter Helpline app. You must be 18 or older.",
+   "ta": "voters.eci.gov.in அல்லது Voter Helpline செயலியில் படிவம் 6 நிரப்பவும். 18 வயது நிறைவடைந்திருக்க வேண்டும்.",
+   "hi": "voters.eci.gov.in या Voter Helpline ऐप पर फॉर्म 6 भरें। आपकी आयु 18 वर्ष या अधिक होनी चाहिए।"
+  }
+ },
+ {
+  "id": "old-age-pension",
+  "keywords": [
+   "pension",
+   "old age",
+   "senior",
+   "ஓய்வூதியம்",
+   "முதியோர்",
+   "पेंशन",
+   "वृद्ध"
+  ],
+  "title": {
+   "en": "Old-age pension",
+   "ta": "முதியோர் ஓய்வூதியம்",
+   "hi": "वृद्धावस्था पेंशन"
+  },
+  "a": {
+   "en": "Meet your Village Administrative Officer or Taluk office and ask about old-age pension schemes. Bring age proof, address proof and income details. Rules differ by scheme.",
+   "ta": "கிராம நிர்வாக அலுவலர் அல்லது வட்டாட்சியர் அலுவலகத்தை அணுகி முதியோர் ஓய்வூதியத் திட்டங்களைப் பற்றி கேளுங்கள். வயது, முகவரி, வருமானச் சான்றுகளை எடுத்துச் செல்லவும். திட்டத்திற்கு ஏற்ப விதிகள் மாறும்.",
+   "hi": "ग्राम प्रशासनिक अधिकारी या तालुक कार्यालय से वृद्धावस्था पेंशन योजनाओं के बारे में पूछें। आयु, पता और आय के प्रमाण साथ ले जाएं। योजना के अनुसार नियम अलग होते हैं।"
+  }
+ }
+];
